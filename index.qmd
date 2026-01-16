@@ -16,6 +16,6 @@ format:
 
 This wiki serves as a central hub for the **UME** seminar series at ENSTA on the Paris-Saclay campus. 
 
-Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-Seesaram](https://alexandredabyseesaram.github.io/) (alexandre.daby[at]ensta-paris.fr)
+Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-Seesaram](https://alexandredabyseesaram.github.io/) (alexandre.daby-seesaram[at]ensta-paris.fr)
 
 ![](Resources/Images/PoleMeca.jpg)
