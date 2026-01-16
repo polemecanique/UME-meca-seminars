@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://polemecanique.github.io/UME-meca-seminars/PastSeminarsArchive.html</loc>
-    <lastmod>2026-01-16T13:14:37.956Z</lastmod>
-  </url>
-  <url>
-    <loc>https://polemecanique.github.io/UME-meca-seminars/index.html</loc>
-    <lastmod>2026-01-16T13:14:37.997Z</lastmod>
+    <loc>https://polemecanique.github.io/UME-meca-seminars/Invitations.html</loc>
+    <lastmod>2026-01-16T13:19:45.523Z</lastmod>
   </url>
   <url>
     <loc>https://polemecanique.github.io/UME-meca-seminars/Schedule.html</loc>
-    <lastmod>2026-01-16T13:14:37.986Z</lastmod>
+    <lastmod>2026-01-16T13:19:45.554Z</lastmod>
+  </url>
+  <url>
+    <loc>https://polemecanique.github.io/UME-meca-seminars/index.html</loc>
+    <lastmod>2026-01-16T13:19:45.565Z</lastmod>
+  </url>
+  <url>
+    <loc>https://polemecanique.github.io/UME-meca-seminars/PastSeminarsArchive.html</loc>
+    <lastmod>2026-01-16T13:19:45.524Z</lastmod>
   </url>
 </urlset>
