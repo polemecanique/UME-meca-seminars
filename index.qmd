@@ -16,10 +16,4 @@ format:
 
 This wiki serves as a central hub for the **UME** seminar series at ENSTA on the Paris-Saclay campus. 
 
-Here, you will find:
-
-* [**Schedule**](Schedule.qmd): View the upcoming seminar schedule.
-* [**Past Seminars Archive**](PastSeminarsArchive.qmd): Access previous seminar presentations and slide decks.
-
-![](Resources/Images/PoleMeca.jpg)
-
+Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-Seesaram](https://alexandredabyseesaram.github.io/) (alexandre.daby[at]ensta-paris.fr)
