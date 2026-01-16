@@ -11,6 +11,11 @@ format:
 ## {{< iconify fa6-solid:calendar-days >}} &nbsp; Schedule
 
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=ce6aa1df5deecff9e399ada1ca53323a5752b4a29e50df8e6a5d8ef4ad9db118%40group.calendar.google.com&amp;ctz=Europe%2FParis;color=%233F51B5&amp;mode=AGENDA&amp;hl=en&amp;showTitle=0&amp;showCalendars=0"
-        style="border:0" scrolling="no" height="800" frameborder="0" width="100%"></iframe>
 
+<iframe src="https://outlook.office365.com/owa/calendar/a9bc5e0865b3441daf8776495fd34d8b@ensta.fr/23f980d17ca94549937ebbd5dbd23006980270030829819905/calendar.html" 
+        style="border: 0" 
+        width="100%" 
+        height="600" 
+        frameborder="0" 
+        scrolling="no">
+</iframe>
