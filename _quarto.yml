@@ -1,0 +1,49 @@
+################################################################################
+###                                                                          ###
+### Created by Alexandre Daby-Seesaram                                       ###
+###                                                                          ###
+### École Polytechnique, Palaiseau, France                                   ###
+###                                                                          ###
+################################################################################
+
+project:
+  resources:
+    - "Resources/Documents"
+    - "style_LMS.scss"
+    - "style_LMS_dark.scss"
+  type: website
+  output-dir: public
+website:
+  title: "UME Meca seminars @ENSTA, Paris-Saclay campus"
+  site-url: https://polemecanique.github.io/UME-meca-seminars/
+  description: "Biomechanics @IPP"
+  navbar:
+    # logo: "Resources/Images/Logotype-X_ENSTA-Ecoles-Horizontal-Blanc.png"
+    logo: "Resources/Images/Logotype_IPP_X_ENSTA.svg"
+    right:
+      - href: index.qmd
+        text: Home
+      - href: Schedule.qmd
+        text: Schedule
+      - href: PastSeminarsArchive.qmd
+        text: Archive
+      - href: "https://polemecanique.github.io"
+        text: Pôle Mécanique
+
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "**Next speakers** - The speaker on the 3rd of November will be **Elise Muller** from **LadHyX** !"
+  #   type: light
+  #   position: below-navbar
+
+format:
+  html:
+    theme:
+      light: [flatly,style.scss]
+      dark: [darkly,style_dark.scss]
+    css: styles.css
+    toc: true
+
+
+

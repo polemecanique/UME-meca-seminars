@@ -1,0 +1,9 @@
+---
+# title: Archive of past seminars
+format:
+  html:
+    page-layout: full
+---
+
+
+## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Archive of past seminars
