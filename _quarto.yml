@@ -23,6 +23,8 @@ website:
     right:
       - href: index.qmd
         text: Home
+      - href: Invitations.qmd
+        text: Invitations
       - href: Schedule.qmd
         text: Schedule
       - href: PastSeminarsArchive.qmd

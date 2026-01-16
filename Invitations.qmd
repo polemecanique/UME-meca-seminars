@@ -1,0 +1,14 @@
+
+:::: {style='margin-top: 3em;'}
+::::
+
+## {{< iconify fa6-solid:person-chalkboard >}} &nbsp; Solicitations for speakers
+
+
+If you would like to invite a speaker, please fill the sheet at this link: .
+
+
+* Name of the guest speaker
+* Laboratory and institution/university
+* Your name, lab (as the host)
+* Scheduling constraints
