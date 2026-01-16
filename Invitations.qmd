@@ -5,7 +5,7 @@
 ## {{< iconify fa6-solid:person-chalkboard >}} &nbsp; Solicitations for speakers
 
 
-If you would like to invite a speaker, please fill the sheet [at this link:](https://enstafr-my.sharepoint.com/:x:/g/personal/alexandre_daby-seesaram_ensta-paris_fr/IQDXS-WrpPdTSo6Rvircki60AYjcvDxIcQoWsLettdND6Pw?e=7J8njd).
+If you would like to invite a speaker, please fill the sheet [at this link:](https://enstafr-my.sharepoint.com/:x:/g/personal/alexandre_daby-seesaram_ensta-paris_fr/IQDXS-WrpPdTSo6Rvircki60AYjcvDxIcQoWsLettdND6Pw?e=7J8njd){target="_blank"}.
 
 
 * Name of the guest speaker
