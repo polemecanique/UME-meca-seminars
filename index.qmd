@@ -18,4 +18,21 @@ This wiki serves as a central hub for the **UME** seminar series at ENSTA on the
 
 Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-Seesaram](https://alexandredabyseesaram.github.io/) (alexandre.daby-seesaram[at]ensta-paris.fr)
 
+## Upcoming seminar 
+
+
+::::: {.talk-card}
+### 23rd of March 2026 
+
+**Title:** Self-adaptive drag reducing devices for heavy vehicles: From wind tunnel experiments to on-track testing 
+ <br>
+**Speaker:** Dr. Manuel Lorite Diez 
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Slides](Resources/Documents/Presentations/2025/20251010_Vet.pdf){.button target="_blank"}
+:::
+
+:::::
+
+
 ![](Resources/Images/PoleMeca.jpg)
