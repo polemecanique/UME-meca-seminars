@@ -29,7 +29,7 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 **Speaker:** Dr. Manuel Lorite Diez 
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Slides](Resources/Documents/Presentations/2025/20251010_Vet.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/Presentations/2025/20251010_Vet.pdf){.button target="_blank"}
 :::
 
 :::::
