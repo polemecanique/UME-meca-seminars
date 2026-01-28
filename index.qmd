@@ -10,6 +10,7 @@ about:
 format:
   html:
     page-layout: full
+    pagetitle: "UME seminars"
 ---
 
 ## {{< iconify fa6-solid:book-atlas >}} &nbsp; Welcome to UME seminar series !
