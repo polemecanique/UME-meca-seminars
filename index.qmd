@@ -21,6 +21,20 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 
 ## Upcoming seminar 
 
+::::: {.talk-card}
+### 19th of March 2026 
+
+**Title:** Technological challenges for deep-water steel pipeline construction; a structural mechanics perspective
+ <br>
+**Speaker:** Pr. Spyros A. Karamanos 
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/S_Karamanos.pdf){.button target="_blank"}
+:::
+
+:::::
+
+
 
 ::::: {.talk-card}
 ### 23rd of March 2026 
