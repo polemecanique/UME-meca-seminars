@@ -15,7 +15,7 @@ format:
 
 ## {{< iconify fa6-solid:book-atlas >}} &nbsp; Welcome to UME seminar series !
 
-This wiki serves as a central hub for the **UME** seminar series at ENSTA on the Paris-Saclay campus. 
+This wiki serves as a central hub for the **UME** seminar series at ENSTA, Palaiseau. 
 
 Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-Seesaram](https://alexandredabyseesaram.github.io/) (alexandre.daby-seesaram[at]ensta-paris.fr)
 

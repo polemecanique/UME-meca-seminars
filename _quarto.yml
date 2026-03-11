@@ -14,7 +14,7 @@ project:
   type: website
   output-dir: public
 website:
-  title: "UME Meca seminars @ENSTA, Paris-Saclay campus"
+  title: "UME Meca seminars @ENSTA, Palaiseau"
   site-url: https://polemecanique.github.io/UME-meca-seminars/
   description: "Biomechanics @IPP"
   navbar:
