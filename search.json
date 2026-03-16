@@ -7,6 +7,27 @@
     "text": "Solicitations for speakers\nIf you would like to invite a speaker, please fill the sheet at this link:.\n\nName of the guest speaker\nLaboratory and institution/university\nYour name, lab (as the host)\nScheduling constraints"
   },
   {
+    "objectID": "Misc.html",
+    "href": "Misc.html",
+    "title": "Writing",
+    "section": "",
+    "text": "The package microtype helps improving the rendering of long text easily\nQuarto is an open-source library that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\n\n\n\n\nThis PhD template is for writting a PhD thesis with a separate title page. It aims at setting up all the necessary packages and create the base outline of a thesis.\nThis quarto template is for presentations with an ENSTA style.\nENSTA’s colour codes\n\n\n\n\nColour Name\nHex Code\nRGB Code\n\n\n\n\nWhite\n#FFFFFF\n(255, 255, 255)\n\n\nBlack\n#000000\n(0, 0, 0)\n\n\nENSTA Dark blue\n#170F39\n(23, 15, 57)\n\n\nEnsta Blue\n#3A46F5\n(58, 70, 245)\n\n\nEnsta Orange\n#EF878D\n(239, 135, 141)\n\n\nEnsta Green\n#3E8066\n(62, 128, 102)\n\n\nEnsta Cyan\n#3B7698\n(59, 118, 152)\n\n\nEnsta Indigo\n#5A5AAE\n(90, 90, 174)\n\n\nEnsta Purple\n#9F5EAF\n(159, 94, 175)\n\n\nEnsta Pink\n#E688F8\n(230, 136, 248)"
+  },
+  {
+    "objectID": "Misc.html#scientific-writing",
+    "href": "Misc.html#scientific-writing",
+    "title": "Writing",
+    "section": "",
+    "text": "The package microtype helps improving the rendering of long text easily\nQuarto is an open-source library that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).\n\n\n\n\n\nThis PhD template is for writting a PhD thesis with a separate title page. It aims at setting up all the necessary packages and create the base outline of a thesis.\nThis quarto template is for presentations with an ENSTA style.\nENSTA’s colour codes\n\n\n\n\nColour Name\nHex Code\nRGB Code\n\n\n\n\nWhite\n#FFFFFF\n(255, 255, 255)\n\n\nBlack\n#000000\n(0, 0, 0)\n\n\nENSTA Dark blue\n#170F39\n(23, 15, 57)\n\n\nEnsta Blue\n#3A46F5\n(58, 70, 245)\n\n\nEnsta Orange\n#EF878D\n(239, 135, 141)\n\n\nEnsta Green\n#3E8066\n(62, 128, 102)\n\n\nEnsta Cyan\n#3B7698\n(59, 118, 152)\n\n\nEnsta Indigo\n#5A5AAE\n(90, 90, 174)\n\n\nEnsta Purple\n#9F5EAF\n(159, 94, 175)\n\n\nEnsta Pink\n#E688F8\n(230, 136, 248)"
+  },
+  {
+    "objectID": "Misc.html#figures-editing",
+    "href": "Misc.html#figures-editing",
+    "title": "Writing",
+    "section": "   Figures editing",
+    "text": "Figures editing\n\nMiscellaneous\n\nScientific drawing with inkscape monthly letter here.\nGood practices regarding figure formating\n\nColour science (Crameri, Shephard, and Heron 2020) and colour map choices\n10 rules for better figures in scientific writting (Rougier, Droettboom, and Bourne 2014)\nNice tool for plotting data in latex: PGFplot"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "UME Meca seminars @ENSTA, Palaiseau",
