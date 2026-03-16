@@ -29,6 +29,8 @@ website:
         text: Schedule
       - href: PastSeminarsArchive.qmd
         text: Archive
+      - href: Misc.qmd
+        text: Miscellaneous
       - href: "https://polemecanique.github.io"
         text: Pôle Mécanique
 
