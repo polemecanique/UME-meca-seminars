@@ -1,0 +1,63 @@
+---
+title: Writing 
+bibliography: Resources/biblio_web.bib
+format:
+  html:
+    page-layout: full
+---
+
+## {{< iconify fa-solid:pen-nib >}} &nbsp; Scientific writing 
+
+::: {.talk-card}
+
+
+### General tips and tools
+
+* The package [microtype](https://ctan.org/pkg/microtype) helps improving the rendering of long text easily
+
+* [Quarto](https://quarto.org) is an open-source library that enables to create dynamic scientific documents, presentations, and websites using Markdown, LaTeX, and a variety of programming languages (including python, R, etc.).
+
+:::
+
+:::{.talk-card}
+
+### Templates
+
+* This [PhD template](https://github.com/floiseau/PhD_Thesis_Template) is for writting a PhD thesis with a separate title page.
+It aims at setting up all the necessary packages and create the base outline of a thesis.
+
+* This [quarto template](https://github.com/AlexandreDabySeesaram/Slideshow_Template) is for presentations with an ENSTA style.
+
+* ENSTA's colour codes
+
+| Colour Name | Hex Code | RGB Code |
+| :--- | :--- | :--- |
+| White | #FFFFFF | (255, 255, 255) |
+| Black | #000000 | (0, 0, 0) |
+| [ENSTA Dark blue]{.dark_blue} | #170F39 | (23, 15, 57) |
+| [Ensta Blue]{.ensta_blue} | #3A46F5 | (58, 70, 245) |
+| [Ensta Orange]{.ensta_orange} | #EF878D | (239, 135, 141) |
+| [Ensta Green]{.ensta_green} | #3E8066 | (62, 128, 102) |
+| [Ensta Cyan]{.ensta_cyan} | #3B7698 | (59, 118, 152) |
+| [Ensta Indigo]{.ensta_indigo} | #5A5AAE | (90, 90, 174) |
+| [Ensta Purple]{.ensta_purple}| #9F5EAF | (159, 94, 175) |
+| [Ensta Pink]{.ensta_pink}| #E688F8 | (230, 136, 248) |
+
+
+:::
+
+
+
+## {{< iconify fa6-solid:compass-drafting >}} &nbsp; Figures editing
+
+::: {.talk-card}
+
+### Miscellaneous
+
+* Scientific drawing with inkscape monthly letter [here](https://dsinkscape.substack.com/about).
+* Good practices regarding figure formating
+  * Colour science [@crameriMisuseColourScience2020a] and colour map choices
+  * 10 rules for better figures in scientific writting [@rougierTenSimpleRules2014a]
+  * Nice tool for plotting data in latex: [PGFplot](https://pgfplots.net/)
+
+:::

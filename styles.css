@@ -18,3 +18,40 @@ a:link {
   
 
 
+
+.important {
+  color: #CE0037; /* Text color */
+}
+
+.dark_blue {
+  color: #170F39; /* Text color */
+}
+
+.ensta_blue {
+  color: #3A46F5; /* Text color */
+}
+
+
+.ensta_orange {
+  color: #EF878D; /* Text color */
+}
+
+.ensta_green {
+  color: #3E8066; /* Text color */
+}
+
+.ensta_cyan {
+  color: #3B7698; /* Text color */
+}
+
+.ensta_indigo {
+  color: #5A5AAE; /* Text color */
+}
+
+.ensta_purple {
+  color: #9F5EAF; /* Text color */
+}
+
+.ensta_pink {
+  color: #E688F8; /* Text color */
+}
