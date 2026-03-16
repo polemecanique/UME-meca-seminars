@@ -19,7 +19,7 @@ This wiki serves as a central hub for the **UME** seminar series at ENSTA, Palai
 
 Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-Seesaram](https://alexandredabyseesaram.github.io/) (alexandre.daby-seesaram[at]ensta-paris.fr)
 
-## Upcoming seminar 
+## Upcoming seminar(s) 
 
 ::::: {.talk-card}
 ### 19th of March 2026 
