@@ -43,6 +43,13 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
  <br>
 **Speaker:** Dr. Manuel Lorite Diez 
 
+
+
+
+![](Resources/Documents/2026/com.svg)
+
+
+
 ::: {.button}
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/M_Diez.pdf){.button target="_blank"}
 :::
