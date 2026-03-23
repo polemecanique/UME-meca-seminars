@@ -11,7 +11,7 @@ format:
 ## {{< iconify fa6-solid:calendar-days >}} &nbsp; Schedule
 
 
-
+You can subscribe to the calendar using [this link](https://outlook.office365.com/owa/calendar/a9bc5e0865b3441daf8776495fd34d8b@ensta.fr/23f980d17ca94549937ebbd5dbd23006980270030829819905/calendar.ics) or simply browse the planned seminars on the widget below. 
 
 <iframe src="https://outlook.office365.com/owa/calendar/a9bc5e0865b3441daf8776495fd34d8b@ensta.fr/23f980d17ca94549937ebbd5dbd23006980270030829819905/calendar.html?view=agenda" 
         style="border: 0" 
