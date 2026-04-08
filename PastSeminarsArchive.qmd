@@ -7,3 +7,40 @@ format:
 
 
 ## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Archive of past seminars
+
+
+
+::::: {.talk-card}
+### 19th of March 2026 
+
+**Title:** Technological challenges for deep-water steel pipeline construction; a structural mechanics perspective
+ <br>
+**Speaker:** Pr. Spyros A. Karamanos 
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/S_Karamanos.pdf){.button target="_blank"}
+:::
+
+:::::
+
+
+
+::::: {.talk-card}
+### 23rd of March 2026 
+
+**Title:** Self-adaptive drag reducing devices for heavy vehicles: From wind tunnel experiments to on-track testing 
+ <br>
+**Speaker:** Dr. Manuel Lorite Diez 
+
+
+
+
+![](Resources/Documents/2026/com.svg){width="50%" fig-align="center"}
+
+
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/M_Diez.pdf){.button target="_blank"}
+:::
+
+:::::

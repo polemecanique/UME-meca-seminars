@@ -22,39 +22,19 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 ## Upcoming seminar(s) 
 
 ::::: {.talk-card}
-### 19th of March 2026 
+### 11th of May 2026 
 
-**Title:** Technological challenges for deep-water steel pipeline construction; a structural mechanics perspective
+**Title:** Multi-material constitutive learning in hyperelasticity
  <br>
-**Speaker:** Pr. Spyros A. Karamanos 
+**Speaker:** Dr. Clément Jailin
 
-::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/S_Karamanos.pdf){.button target="_blank"}
-:::
-
-:::::
-
-
-
-::::: {.talk-card}
-### 23rd of March 2026 
-
-**Title:** Self-adaptive drag reducing devices for heavy vehicles: From wind tunnel experiments to on-track testing 
- <br>
-**Speaker:** Dr. Manuel Lorite Diez 
-
-
-
-
-![](Resources/Documents/2026/com.svg){width="50%" fig-align="center"}
-
+![](Resources/Documents/2026/com_Jailin.svg){width="50%" fig-align="center"}
 
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/M_Diez.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/C_Jailin.pdf){.button target="_blank"}
 :::
 
 :::::
-
 
 ![](Resources/Images/PoleMeca.jpg)
