@@ -39,6 +39,23 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 
 
 ::::: {.talk-card}
+### 8th of June 2026 
+
+**Title:** Emergence of laminar-turbulent patterns in plane channel flow
+ <br>
+**Speaker:** Dr. Yohann Duguet
+
+<!-- ![](Resources/Documents/2026/com_Bellis.svg){width="50%" fig-align="center"} -->
+
+
+<!-- ::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/C_Bellis.pdf){.button target="_blank"}
+::: -->
+
+:::::
+
+
+::::: {.talk-card}
 ### 29th of June 2026 
 
 **Title:** De l’identification inverse à la conception de microstructures : une approche unifiée par sensibilité et homogénéisation FFT
