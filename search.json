@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "PastSeminarsArchive.html",
-    "href": "PastSeminarsArchive.html",
+    "objectID": "Schedule.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a63616c656e6461722d64617973203e7d7d-schedule",
+    "href": "Schedule.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a63616c656e6461722d64617973203e7d7d-schedule",
     "title": "UME Meca seminars @ENSTA, Palaiseau",
-    "section": "",
-    "text": "Title: Technological challenges for deep-water steel pipeline construction; a structural mechanics perspective  Speaker: Pr. Spyros A. Karamanos\n\n Announcement\n\n\n\n\nTitle: Self-adaptive drag reducing devices for heavy vehicles: From wind tunnel experiments to on-track testing  Speaker: Dr. Manuel Lorite Diez\n\n\n\n\n\n\n Announcement"
-  },
-  {
-    "objectID": "PastSeminarsArchive.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a636c6f636b2d726f746174652d6c656674203e7d7d-archive-of-past-seminars",
-    "href": "PastSeminarsArchive.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a636c6f636b2d726f746174652d6c656674203e7d7d-archive-of-past-seminars",
-    "title": "UME Meca seminars @ENSTA, Palaiseau",
-    "section": "",
-    "text": "Title: Technological challenges for deep-water steel pipeline construction; a structural mechanics perspective  Speaker: Pr. Spyros A. Karamanos\n\n Announcement\n\n\n\n\nTitle: Self-adaptive drag reducing devices for heavy vehicles: From wind tunnel experiments to on-track testing  Speaker: Dr. Manuel Lorite Diez\n\n\n\n\n\n\n Announcement"
+    "section": "   Schedule",
+    "text": "Schedule\nYou can subscribe to the calendar using this link or simply browse the planned seminars on the widget below."
   },
   {
     "objectID": "Invitations.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a706572736f6e2d6368616c6b626f617264203e7d7d-solicitations-for-speakers",
@@ -19,13 +12,6 @@
     "title": "UME Meca seminars @ENSTA, Palaiseau",
     "section": "   Solicitations for speakers",
     "text": "Solicitations for speakers\nIf you would like to invite a speaker, please fill the sheet at this link:.\n\nName of the guest speaker\nLaboratory and institution/university\nYour name, lab (as the host)\nScheduling constraints"
-  },
-  {
-    "objectID": "Schedule.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a63616c656e6461722d64617973203e7d7d-schedule",
-    "href": "Schedule.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a63616c656e6461722d64617973203e7d7d-schedule",
-    "title": "UME Meca seminars @ENSTA, Palaiseau",
-    "section": "   Schedule",
-    "text": "Schedule\nYou can subscribe to the calendar using this link or simply browse the planned seminars on the widget below."
   },
   {
     "objectID": "Misc.html",
@@ -49,6 +35,20 @@
     "text": "Figures editing\n\nMiscellaneous\n\nScientific drawing with inkscape monthly letter here.\nGood practices regarding figure formating\n\nColour science (Crameri et al. 2020) and colour map choices\n10 rules for better figures in scientific writting (Rougier et al. 2014)\nNice tool for plotting data in latex: PGFplot"
   },
   {
+    "objectID": "PastSeminarsArchive.html",
+    "href": "PastSeminarsArchive.html",
+    "title": "UME Meca seminars @ENSTA, Palaiseau",
+    "section": "",
+    "text": "Title: Technological challenges for deep-water steel pipeline construction; a structural mechanics perspective  Speaker: Pr. Spyros A. Karamanos\n\n Announcement\n\n\n\n\nTitle: Self-adaptive drag reducing devices for heavy vehicles: From wind tunnel experiments to on-track testing  Speaker: Dr. Manuel Lorite Diez\n\n\n\n\n\n\n Announcement"
+  },
+  {
+    "objectID": "PastSeminarsArchive.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a636c6f636b2d726f746174652d6c656674203e7d7d-archive-of-past-seminars",
+    "href": "PastSeminarsArchive.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a636c6f636b2d726f746174652d6c656674203e7d7d-archive-of-past-seminars",
+    "title": "UME Meca seminars @ENSTA, Palaiseau",
+    "section": "",
+    "text": "Title: Technological challenges for deep-water steel pipeline construction; a structural mechanics perspective  Speaker: Pr. Spyros A. Karamanos\n\n Announcement\n\n\n\n\nTitle: Self-adaptive drag reducing devices for heavy vehicles: From wind tunnel experiments to on-track testing  Speaker: Dr. Manuel Lorite Diez\n\n\n\n\n\n\n Announcement"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "UME Meca seminars @ENSTA, Palaiseau",
@@ -67,6 +67,6 @@
     "href": "index.html#upcoming-seminars",
     "title": "UME Meca seminars @ENSTA, Palaiseau",
     "section": "Upcoming seminar(s)",
-    "text": "Upcoming seminar(s)\n\n11th of May 2026\nTitle: Multi-material constitutive learning in hyperelasticity  Speaker: Dr. Clément Jailin\n\n\n\n\n\n\n Announcement"
+    "text": "Upcoming seminar(s)\n\n11th of May 2026\nTitle: Multi-material constitutive learning in hyperelasticity  Speaker: Dr. Clément Jailin\n\n\n\n\n\n\n Announcement\n\n\n\n29th of June 2026\nTitle: De l’identification inverse à la conception de microstructures : une approche unifiée par sensibilité et homogénéisation FFT  Speaker: Dr. Cédric Bellis\n\n\n\n\n\n\n Announcement"
   }
 ]
