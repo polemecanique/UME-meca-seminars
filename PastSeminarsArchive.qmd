@@ -9,16 +9,18 @@ format:
 ## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Archive of past seminars
 
 
-
 ::::: {.talk-card}
-### 19th of March 2026 
+### 11th of May 2026 
 
-**Title:** Technological challenges for deep-water steel pipeline construction; a structural mechanics perspective
+**Title:** Multi-material constitutive learning in hyperelasticity
  <br>
-**Speaker:** Pr. Spyros A. Karamanos 
+**Speaker:** Dr. Clément Jailin
+
+![](Resources/Documents/2026/com_Jailin.svg){width="50%" fig-align="center"}
+
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/S_Karamanos.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/C_Jailin.pdf){.button target="_blank"}
 :::
 
 :::::
@@ -44,3 +46,18 @@ format:
 :::
 
 :::::
+
+::::: {.talk-card}
+### 19th of March 2026 
+
+**Title:** Technological challenges for deep-water steel pipeline construction; a structural mechanics perspective
+ <br>
+**Speaker:** Pr. Spyros A. Karamanos 
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/S_Karamanos.pdf){.button target="_blank"}
+:::
+
+:::::
+
+
