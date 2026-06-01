@@ -21,22 +21,6 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 
 ## Upcoming seminar(s) 
 
-::::: {.talk-card}
-### 11th of May 2026 
-
-**Title:** Multi-material constitutive learning in hyperelasticity
- <br>
-**Speaker:** Dr. Clément Jailin
-
-![](Resources/Documents/2026/com_Jailin.svg){width="50%" fig-align="center"}
-
-
-::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/C_Jailin.pdf){.button target="_blank"}
-:::
-
-:::::
-
 
 ::::: {.talk-card}
 ### 8th of June 2026 
