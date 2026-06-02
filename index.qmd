@@ -21,7 +21,6 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 
 ## Upcoming seminar(s) 
 
-
 ::::: {.talk-card}
 ### 8th of June 2026 
 
