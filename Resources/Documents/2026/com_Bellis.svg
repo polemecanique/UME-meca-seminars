@@ -25,12 +25,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.80354938"
-     inkscape:cx="560.01537"
+     inkscape:cx="560.63761"
      inkscape:cy="396.36643"
-     inkscape:window-width="2707"
-     inkscape:window-height="1468"
-     inkscape:window-x="1951"
-     inkscape:window-y="113"
+     inkscape:window-width="1800"
+     inkscape:window-height="1102"
+     inkscape:window-x="0"
+     inkscape:window-y="39"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" /><defs
      id="defs1"><rect
@@ -164,9 +164,9 @@
        style="font-weight:bold;font-size:57.3333px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5);display:inline;fill:#3b47f5;stroke-width:3"><tspan
          x="86.513672"
          y="91.796985"
-         id="tspan2"><tspan
+         id="tspan12"><tspan
            style="fill:#ffffff"
-           id="tspan1">UME Palaiseau seminar series</tspan></tspan></text><text
+           id="tspan11">UME Palaiseau seminar series</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-11.50421,37.041684)"
        id="text5"
@@ -175,14 +175,14 @@
        y="0"><tspan
          x="279.90347"
          y="156.8489"
-         id="tspan3">De l’identification inverse à la conception de </tspan><tspan
+         id="tspan17">De l’identification inverse à la conception de </tspan><tspan
          x="447.63482"
          y="195.18227"
-         id="tspan4">microstructures : une
+         id="tspan18">microstructures : une
 </tspan><tspan
          x="193.60731"
          y="233.51565"
-         id="tspan5">approche unifiée par sensibilité et homogénéisation FFT</tspan></text><image
+         id="tspan19">approche unifiée par sensibilité et homogénéisation FFT</tspan></text><image
        width="63.686588"
        height="62.848606"
        preserveAspectRatio="none"
@@ -207,29 +207,29 @@
        style="font-weight:bold;font-size:26.6667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:3"><tspan
          x="267.82617"
          y="339.91107"
-         id="tspan7">Dr. Cédric Bellis<tspan
+         id="tspan21">Dr. Cédric Bellis<tspan
    style="font-weight:normal;-inkscape-font-specification:'Helvetica Neue'"
-   id="tspan6">
+   id="tspan20">
 </tspan></tspan><tspan
          x="267.82617"
          y="373.26538"
-         id="tspan10"><tspan
+         id="tspan24"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Helvetica Neue'"
-           id="tspan8">LMA</tspan><tspan
+           id="tspan22">LMA</tspan><tspan
            style="font-weight:normal;-inkscape-font-specification:'Helvetica Neue'"
-           id="tspan9">
+           id="tspan23">
 </tspan></tspan><tspan
          x="267.82617"
          y="406.61969"
-         id="tspan14">Date and time<tspan
+         id="tspan26">Date and time<tspan
    style="font-weight:normal;-inkscape-font-specification:'Helvetica Neue'"
-   id="tspan13">: the 29th of May at 2 p.m.
+   id="tspan25">: the 29th of June at 2 p.m.
 </tspan></tspan><tspan
          x="267.82617"
          y="439.974"
-         id="tspan16">Venue<tspan
+         id="tspan28">Venue<tspan
    style="font-weight:normal;-inkscape-font-specification:'Helvetica Neue'"
-   id="tspan15">: Amphitéâtre Pôle Mécanique</tspan></tspan></text><g
+   id="tspan27">: Amphitéâtre Pôle Mécanique</tspan></tspan></text><g
        id="g12"
        transform="matrix(0.26458333,0,0,0.26458333,60.261908,12.309917)"><g
          id="g36"
