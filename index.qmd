@@ -28,12 +28,12 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
  <br>
 **Speaker:** Dr. Yohann Duguet
 
-<!-- ![](Resources/Documents/2026/com_Bellis.svg){width="50%" fig-align="center"} -->
+![](Resources/Documents/2026/com_Duguet.svg){width="50%" fig-align="center"}
 
 
-<!-- ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/C_Bellis.pdf){.button target="_blank"}
-::: -->
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/Y_Duguet.pdf){.button target="_blank"}
+:::
 
 :::::
 
