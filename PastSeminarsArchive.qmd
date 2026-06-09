@@ -9,7 +9,7 @@ format:
 ## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Archive of past seminars
 
 
-
+::::: {.talk-card}
 ### 8th of June 2026 
 
 **Title:** Emergence of laminar-turbulent patterns in plane channel flow

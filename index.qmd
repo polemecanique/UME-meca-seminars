@@ -21,7 +21,6 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 
 ## Upcoming seminar(s) 
 
-::::: {.talk-card}
 
 
 ::::: {.talk-card}
