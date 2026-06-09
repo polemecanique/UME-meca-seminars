@@ -9,6 +9,23 @@ format:
 ## {{< iconify fa6-solid:clock-rotate-left >}} &nbsp; Archive of past seminars
 
 
+
+### 8th of June 2026 
+
+**Title:** Emergence of laminar-turbulent patterns in plane channel flow
+ <br>
+**Speaker:** Dr. Yohann Duguet
+
+![](Resources/Documents/2026/com_Duguet.svg){width="50%" fig-align="center"}
+
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/Y_Duguet.pdf){.button target="_blank"}
+:::
+
+:::::
+
+
 ::::: {.talk-card}
 ### 11th of May 2026 
 

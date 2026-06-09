@@ -22,17 +22,20 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 ## Upcoming seminar(s) 
 
 ::::: {.talk-card}
-### 8th of June 2026 
 
-**Title:** Emergence of laminar-turbulent patterns in plane channel flow
+
+::::: {.talk-card}
+### 25th of June 2026 - MECA Seminar of Institut Polytechnique de Paris
+
+**Title:** Recent results on variational phase-field modeling of cohesive fracture
  <br>
-**Speaker:** Dr. Yohann Duguet
+**Speaker:** Pr. Laura De Lorenzis
 
-![](Resources/Documents/2026/com_Duguet.svg){width="50%" fig-align="center"}
+![](Resources/Documents/2026/Com_L_De_Lorenzis_cropped.svg){width="50%" fig-align="center"}
 
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/Y_Duguet.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/L_de_Lorenzis.pdf){.button target="_blank"}
 :::
 
 :::::
