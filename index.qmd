@@ -35,7 +35,7 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="130pt"}
 
 ::: {.button}
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/L_de_Lorenzis.pdf){.button target="_blank"}
@@ -43,7 +43,7 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="80pt"}
 
 ::: {.button}
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Poster](Resources/Documents/2026/L_De_Lorenzis_helv.pdf){.button target="_blank"}
