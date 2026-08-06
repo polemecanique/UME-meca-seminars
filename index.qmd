@@ -22,56 +22,24 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 ## Upcoming seminar(s) 
 
 
-
 ::::: {.talk-card}
-### 25th of June 2026 - MECA Seminar of Institut Polytechnique de Paris
+### 14th of September 2026 
 
-**Title:** Recent results on variational phase-field modeling of cohesive fracture
+**Title:** Some recent high-order solvers with minimal pollution errors for hemodynamic wave propagation 
+
  <br>
-**Speaker:** Pr. Laura De Lorenzis
+**Speaker:** Dr. Faisal Amlani
 
-![](Resources/Documents/2026/Com_L_De_Lorenzis_cropped.svg){width="50%" fig-align="center"}
-
-
-:::: {.columns}
-
-::: {.column width="130pt"}
-
-::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/L_de_Lorenzis.pdf){.button target="_blank"}
-:::
-
-:::
-
-::: {.column width="80pt"}
-
-::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Poster](Resources/Documents/2026/L_De_Lorenzis_helv.pdf){.button target="_blank"}
-:::
-
-:::
-
-::::
+![](Resources/Documents/2026/com_Amlani.svg){width="50%" fig-align="center"}
 
 
-
-:::::
-
-
-::::: {.talk-card}
-### 29th of June 2026 
-
-**Title:** De l’identification inverse à la conception de microstructures : une approche unifiée par sensibilité et homogénéisation FFT
- <br>
-**Speaker:** Dr. Cédric Bellis
-
-![](Resources/Documents/2026/com_Bellis.svg){width="50%" fig-align="center"}
-
-
-::: {.button}
+<!-- ::: {.button}
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/C_Bellis.pdf){.button target="_blank"}
-:::
+::: -->
 
 :::::
+
+
+
 
 ![](Resources/Images/PoleMeca.jpg)

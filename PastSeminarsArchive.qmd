@@ -10,6 +10,59 @@ format:
 
 
 ::::: {.talk-card}
+### 29th of June 2026 
+
+**Title:** De l’identification inverse à la conception de microstructures : une approche unifiée par sensibilité et homogénéisation FFT
+ <br>
+**Speaker:** Dr. Cédric Bellis
+
+![](Resources/Documents/2026/com_Bellis.svg){width="50%" fig-align="center"}
+
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/C_Bellis.pdf){.button target="_blank"}
+:::
+
+:::::
+
+
+
+::::: {.talk-card}
+### 25th of June 2026 - MECA Seminar of Institut Polytechnique de Paris
+
+**Title:** Recent results on variational phase-field modeling of cohesive fracture
+ <br>
+**Speaker:** Pr. Laura De Lorenzis
+
+![](Resources/Documents/2026/Com_L_De_Lorenzis_cropped.svg){width="50%" fig-align="center"}
+
+
+:::: {.columns}
+
+::: {.column width="130pt"}
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/L_de_Lorenzis.pdf){.button target="_blank"}
+:::
+
+:::
+
+::: {.column width="80pt"}
+
+::: {.button}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Poster](Resources/Documents/2026/L_De_Lorenzis_helv.pdf){.button target="_blank"}
+:::
+
+:::
+
+::::
+
+
+
+:::::
+
+
+::::: {.talk-card}
 ### 8th of June 2026 
 
 **Title:** Emergence of laminar-turbulent patterns in plane channel flow
