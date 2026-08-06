@@ -26,7 +26,6 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 ### 14th of September 2026 
 
 **Title:** Some recent high-order solvers with minimal pollution errors for hemodynamic wave propagation 
-
  <br>
 **Speaker:** Dr. Faisal Amlani
 
@@ -38,6 +37,7 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 :::
 
 :::::
+
 
 
 
