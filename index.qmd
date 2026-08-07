@@ -27,13 +27,35 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 
 **Title:** Some recent developments in high-order PDE solvers with minimal numerical pollution errors for time-dependent waves & transport in solids, fluids & their interactions: applications to geophysics & biomedicine
  <br>
-**Speaker:** Dr. Faisal Amlani
+**Speaker:** Faisal Amlani
 
 ![](Resources/Documents/2026/com_Amlani.svg){width="50%" fig-align="center"}
 
 ::: {.button}
 [<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/F_Amlani.pdf){.button target="_blank"}
 :::
+
+:::::
+
+::::: {.talk-card}
+### 19th of October 2026 
+
+**Title:** TBA
+ <br>
+**Speaker:** Aline Bel-Brunon (Laboratoire de Biomécanique et Mécanique des Chocs)
+
+
+
+:::::
+
+::::: {.talk-card}
+### 09th of November 2026 
+
+**Title:** TBA
+ <br>
+**Speaker:** Valentine Rey (Gem, Nantes)
+
+
 
 :::::
 
