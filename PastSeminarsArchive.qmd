@@ -35,7 +35,7 @@ format:
 
 **Title:** Recent results on variational phase-field modeling of cohesive fracture
 
-**Date:** 15/06/26
+**Date:** 25/06/26
  <br>
 
 ![](Resources/Documents/2026/Com_L_De_Lorenzis_cropped.svg){width="50%" fig-align="center"}
