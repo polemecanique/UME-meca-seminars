@@ -24,7 +24,7 @@ format:
 
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/C_Bellis.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Abstract & Bio"></iconify-icon> Abstract & Bio](Resources/Documents/2026/C_Bellis.pdf){.button target="_blank"}
 :::
 
 :::::
@@ -49,7 +49,7 @@ format:
 ::: {.column width="130pt"}
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/L_de_Lorenzis.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Abstract & Bio"></iconify-icon> Abstract & Bio](Resources/Documents/2026/L_de_Lorenzis.pdf){.button target="_blank"}
 :::
 
 :::
@@ -57,7 +57,7 @@ format:
 ::: {.column width="80pt"}
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Poster](Resources/Documents/2026/L_De_Lorenzis_helv.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Abstract & Bio"></iconify-icon> Poster](Resources/Documents/2026/L_De_Lorenzis_helv.pdf){.button target="_blank"}
 :::
 
 :::
@@ -81,7 +81,7 @@ format:
 
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/Y_Duguet.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Abstract & Bio"></iconify-icon> Abstract & Bio](Resources/Documents/2026/Y_Duguet.pdf){.button target="_blank"}
 :::
 
 :::::
@@ -99,7 +99,7 @@ format:
 
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/C_Jailin.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Abstract & Bio"></iconify-icon> Abstract & Bio](Resources/Documents/2026/C_Jailin.pdf){.button target="_blank"}
 :::
 
 :::::
@@ -120,7 +120,7 @@ format:
 
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/M_Diez.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Abstract & Bio"></iconify-icon> Abstract & Bio](Resources/Documents/2026/M_Diez.pdf){.button target="_blank"}
 :::
 
 :::::
@@ -134,7 +134,7 @@ format:
  <br>
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Announcement](Resources/Documents/2026/S_Karamanos.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-solid:chalkboard" aria-label="Abstract & Bio"></iconify-icon> Abstract & Bio](Resources/Documents/2026/S_Karamanos.pdf){.button target="_blank"}
 :::
 
 :::::
