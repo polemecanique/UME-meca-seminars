@@ -24,7 +24,7 @@ format:
 
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Abstract & Bio"></iconify-icon> Abstract & Bio](Resources/Documents/2026/C_Bellis.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-file-text-o" aria-label="Abstract & Bio"></iconify-icon> Abstract & Bio](Resources/Documents/2026/C_Bellis.pdf){.button target="_blank"}
 :::
 
 :::::

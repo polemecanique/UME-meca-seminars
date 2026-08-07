@@ -32,7 +32,7 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 ![](Resources/Documents/2026/com_Amlani.svg){width="50%" fig-align="center"}
 
 ::: {.button}
-[<iconify-icon icon="fa-solid:chalkboard" aria-label="Announcement"></iconify-icon> Abstract & Bio](Resources/Documents/2026/F_Amlani.pdf){.button target="_blank"}
+[<iconify-icon icon="fa-file-text-o" aria-label="Announcement"></iconify-icon> Abstract & Bio](Resources/Documents/2026/F_Amlani.pdf){.button target="_blank"}
 :::
 
 :::::
