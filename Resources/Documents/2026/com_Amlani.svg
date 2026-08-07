@@ -10,6 +10,9 @@
    xml:space="preserve"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="com_Amlani.svg"
+   inkscape:export-filename="com_Amlani.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -32,7 +35,7 @@
      inkscape:window-x="1800"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g18"
+     inkscape:current-layer="layer2"
      showgrid="false"><inkscape:page
        x="0"
        y="0"
@@ -77,6 +80,15 @@
        width="485.61948"
        height="235.68423"
        id="rect14" /></defs><g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg"><rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.877251"
+       id="rect6"
+       width="202.77234"
+       height="142.33287"
+       x="1.0649129e-07"
+       y="-1.7619994e-08" /></g><g
      inkscape:label="Logos"
      inkscape:groupmode="layer"
      id="layer1"
