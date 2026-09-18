@@ -7,6 +7,13 @@
     "text": "Schedule\nYou can subscribe to the calendar using this link or simply browse the planned seminars on the widget below."
   },
   {
+    "objectID": "Invitations.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a706572736f6e2d6368616c6b626f617264203e7d7d-solicitations-for-speakers",
+    "href": "Invitations.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a706572736f6e2d6368616c6b626f617264203e7d7d-solicitations-for-speakers",
+    "title": "UME Meca seminars @ENSTA, Palaiseau",
+    "section": "   Solicitations for speakers",
+    "text": "Solicitations for speakers\nIf you would like to invite a speaker, please fill the sheet at this link:.\n\nName of the guest speaker\nLaboratory and institution/university\nYour name, lab (as the host)\nScheduling constraints"
+  },
+  {
     "objectID": "PastSeminarsArchive.html",
     "href": "PastSeminarsArchive.html",
     "title": "   Archive of past seminars",
@@ -19,6 +26,27 @@
     "title": "   Archive of past seminars",
     "section": "",
     "text": "Title: De l’identification inverse à la conception de microstructures : une approche unifiée par sensibilité et homogénéisation FFT\nDate: 29/06/26 \n\n\n\n\n\n\n Abstract & Bio\n\n\n\n\nMECA Seminar of Institut Polytechnique de Paris\nTitle: Recent results on variational phase-field modeling of cohesive fracture\nDate: 25/06/26 \n\n\n\n\n\n\n\n\n Abstract & Bio\n\n\n\n Poster\n\n\n\n\n\n\nTitle: Emergence of laminar-turbulent patterns in plane channel flow\nDate: 08/06/26 \n\n\n\n\n\n\n Abstract & Bio\n\n\n\n\nTitle: Multi-material constitutive learning in hyperelasticity\nDate: 11/05/26 \n\n\n\n\n\n\n Abstract & Bio\n\n\n\n\nTitle: Self-adaptive drag reducing devices for heavy vehicles: From wind tunnel experiments to on-track testing\nDate: 23/03/26 \n\n\n\n\n\n\n Abstract & Bio\n\n\n\n\nTitle: Technological challenges for deep-water steel pipeline construction; a structural mechanics perspective\nDate: 19/03/26 \n\n Abstract & Bio"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "UME Meca seminars @ENSTA, Palaiseau",
+    "section": "",
+    "text": "This wiki serves as a central hub for the UME seminar series at ENSTA, Palaiseau.\nOrganisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & Alexandre Daby-Seesaram (alexandre.daby-seesaram[at]ensta-paris.fr)"
+  },
+  {
+    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a626f6f6b2d61746c6173203e7d7d-welcome-to-ume-seminar-series",
+    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a626f6f6b2d61746c6173203e7d7d-welcome-to-ume-seminar-series",
+    "title": "UME Meca seminars @ENSTA, Palaiseau",
+    "section": "",
+    "text": "This wiki serves as a central hub for the UME seminar series at ENSTA, Palaiseau.\nOrganisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & Alexandre Daby-Seesaram (alexandre.daby-seesaram[at]ensta-paris.fr)"
+  },
+  {
+    "objectID": "index.html#upcoming-seminars",
+    "href": "index.html#upcoming-seminars",
+    "title": "UME Meca seminars @ENSTA, Palaiseau",
+    "section": "Upcoming seminar(s)",
+    "text": "Upcoming seminar(s)\n\n14th of September 2026\nTitle: Some recent developments in high-order PDE solvers with minimal numerical pollution errors for time-dependent waves & transport in solids, fluids & their interactions: applications to geophysics & biomedicine  Speaker: Faisal Amlani\n\n\n\n\n\n\n Abstract & Bio\n\n\n\n19th of October 2026\nTitle: Fibers in Turbulent Wall-Bounded Flow: Pushing the Limits of 3D Laboratory Experiments  Speaker: Eliza Coliban (Institute of Fluid Mechanics and Heat Transfer, TU Wien)\n\n\n09th of November 2026\nTitle: TBA  Speaker: Valentine Rey (Gem, Nantes)"
   },
   {
     "objectID": "Misc.html",
@@ -40,33 +68,5 @@
     "title": "Writing",
     "section": "   Figures editing",
     "text": "Figures editing\n\nMiscellaneous\n\nScientific drawing with inkscape monthly letter here.\nGood practices regarding figure formating\n\nColour science (Crameri et al. 2020) and colour map choices\n10 rules for better figures in scientific writting (Rougier et al. 2014)\nNice tool for plotting data in latex: PGFplot"
-  },
-  {
-    "objectID": "Invitations.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a706572736f6e2d6368616c6b626f617264203e7d7d-solicitations-for-speakers",
-    "href": "Invitations.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a706572736f6e2d6368616c6b626f617264203e7d7d-solicitations-for-speakers",
-    "title": "UME Meca seminars @ENSTA, Palaiseau",
-    "section": "   Solicitations for speakers",
-    "text": "Solicitations for speakers\nIf you would like to invite a speaker, please fill the sheet at this link:.\n\nName of the guest speaker\nLaboratory and institution/university\nYour name, lab (as the host)\nScheduling constraints"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "UME Meca seminars @ENSTA, Palaiseau",
-    "section": "",
-    "text": "This wiki serves as a central hub for the UME seminar series at ENSTA, Palaiseau.\nOrganisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & Alexandre Daby-Seesaram (alexandre.daby-seesaram[at]ensta-paris.fr)"
-  },
-  {
-    "objectID": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a626f6f6b2d61746c6173203e7d7d-welcome-to-ume-seminar-series",
-    "href": "index.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2069636f6e696679206661362d736f6c69643a626f6f6b2d61746c6173203e7d7d-welcome-to-ume-seminar-series",
-    "title": "UME Meca seminars @ENSTA, Palaiseau",
-    "section": "",
-    "text": "This wiki serves as a central hub for the UME seminar series at ENSTA, Palaiseau.\nOrganisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & Alexandre Daby-Seesaram (alexandre.daby-seesaram[at]ensta-paris.fr)"
-  },
-  {
-    "objectID": "index.html#upcoming-seminars",
-    "href": "index.html#upcoming-seminars",
-    "title": "UME Meca seminars @ENSTA, Palaiseau",
-    "section": "Upcoming seminar(s)",
-    "text": "Upcoming seminar(s)\n\n14th of September 2026\nTitle: Some recent developments in high-order PDE solvers with minimal numerical pollution errors for time-dependent waves & transport in solids, fluids & their interactions: applications to geophysics & biomedicine  Speaker: Faisal Amlani\n\n\n\n\n\n\n Abstract & Bio\n\n\n\n19th of October 2026\nTitle: TBA  Speaker: Aline Bel-Brunon (Laboratoire de Biomécanique et Mécanique des Chocs)\n\n\n09th of November 2026\nTitle: TBA  Speaker: Valentine Rey (Gem, Nantes)"
   }
 ]
