@@ -40,9 +40,9 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 ::::: {.talk-card}
 ### 19th of October 2026 
 
-**Title:** TBA
+**Title:** Fibers in Turbulent Wall-Bounded Flow: Pushing the Limits of 3D Laboratory Experiments
  <br>
-**Speaker:** Aline Bel-Brunon (Laboratoire de Biomécanique et Mécanique des Chocs)
+**Speaker:** Eliza Coliban (Institute of Fluid Mechanics and Heat Transfer, TU Wien)
 
 
 
