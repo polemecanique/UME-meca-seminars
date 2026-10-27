@@ -22,40 +22,19 @@ Organisers: Camilla Zolesi (camilla.zolesi[at]ensta-paris.fr) & [Alexandre Daby-
 ## Upcoming seminar(s) 
 
 
-::::: {.talk-card}
-### 14th of September 2026 
-
-**Title:** Some recent developments in high-order PDE solvers with minimal numerical pollution errors for time-dependent waves & transport in solids, fluids & their interactions: applications to geophysics & biomedicine
- <br>
-**Speaker:** Faisal Amlani
-
-![](Resources/Documents/2026/com_Amlani.svg){width="50%" fig-align="center"}
-
-::: {.button}
-[<iconify-icon icon="fa-file-text-o" aria-label="Announcement"></iconify-icon> Abstract & Bio](Resources/Documents/2026/F_Amlani.pdf){.button target="_blank"}
-:::
-
-:::::
-
-::::: {.talk-card}
-### 19th of October 2026 
-
-**Title:** Fibers in Turbulent Wall-Bounded Flow: Pushing the Limits of 3D Laboratory Experiments
- <br>
-**Speaker:** Eliza Coliban (Institute of Fluid Mechanics and Heat Transfer, TU Wien)
-
-
-
-:::::
 
 ::::: {.talk-card}
 ### 09th of November 2026 
 
-**Title:** TBA
+**Title:** Multiple solutions to contact problems with Coulomb's law of friction
  <br>
 **Speaker:** Valentine Rey (Gem, Nantes)
 
+![](Resources/Documents/2026/Com_Rey.svg){width="50%" fig-align="center"}
 
+::: {.button}
+[<iconify-icon icon="fa-file-text-o" aria-label="Announcement"></iconify-icon> Abstract & Bio](Resources/Documents/2026/V_Rey.pdf){.button target="_blank"}
+:::
 
 :::::
 

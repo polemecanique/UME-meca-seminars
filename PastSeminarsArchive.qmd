@@ -10,6 +10,38 @@ format:
 
 ## 2026 - 2027
 
+
+
+::::: {.talk-card}
+### Eliza Coliban
+
+From the Institute of Fluid Mechanics and Heat Transfer, TU Wien
+**Title:** Fibers in Turbulent Wall-Bounded Flow: Pushing the Limits of 3D Laboratory Experiments
+ <br>
+**Date:** 19/10/2026 
+
+
+
+:::::
+
+
+
+
+::::: {.talk-card}
+### Faisal Amlani
+
+**Title:** Some recent developments in high-order PDE solvers with minimal numerical pollution errors for time-dependent waves & transport in solids, fluids & their interactions: applications to geophysics & biomedicine
+ <br>
+**Date:** 14/09/2026
+
+![](Resources/Documents/2026/com_Amlani.svg){width="50%" fig-align="center"}
+
+::: {.button}
+[<iconify-icon icon="fa-file-text-o" aria-label="Announcement"></iconify-icon> Abstract & Bio](Resources/Documents/2026/F_Amlani.pdf){.button target="_blank"}
+:::
+
+:::::
+
 ## 2025 - 2026
 
 ::::: {.talk-card}
